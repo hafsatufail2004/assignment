@@ -1,0 +1,22 @@
+
+.center{
+    text-align: center;
+}
+
+.bg-red{
+    background-color: blueviolet;
+    margin: auto;
+}
+.m-w-20{
+    max-width: 30vw;
+}
+
+.flex{
+display: flex;
+}
+.flex-col{
+flex-direction: column;
+}
+.itemscenter{
+    align-items: center;
+}
